@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.env*
+!.env.example
+*.tsbuildinfo
+.tanstack
+.astro
+test-results
+playwright-report
+.turbo
