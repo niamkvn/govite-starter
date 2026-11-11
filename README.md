@@ -1,6 +1,6 @@
 # govite-starter
 
-Reusable app starter: Go API + Vite/React admin. Each side runs on its own.
+Example of a reusable Go (Fiber) server API + TypeScript (React) client web admin as a fullstack starter. Each side runs on its own.
 
 ```
 server/   Go 1.26, Fiber v2, pgx + sqlc, goose migrations
